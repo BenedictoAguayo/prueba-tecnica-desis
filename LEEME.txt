@@ -1,0 +1,5 @@
+Base de datos: bd_voting
+Version de MySql :8.0
+Version PHP :7.4 o superior
+
+Patron de diseño MVC (modelo vista controlador)
