@@ -3,3 +3,14 @@ Version de MySql :8.0
 Version PHP :7.4 o superior
 
 Patron de diseño MVC (modelo vista controlador)
+
+Pasos para abrir y usar el proyecto 
+
+1.descargar e instalar xaamp o similar.
+2. dirigirse a la carpeta C:\xampp\htdocs en xaamp desde el terminal (puede ser desde VSC)
+3.clonar el repositorio publico con git clone https://github.com/BenedictoAguayo/prueba-tecnica-desis.git dentro de la carpeta htdocs
+4.abrir xaamp control y ejecutar Apache y MySql (tambien puede ser desde Workbench en el caso de MySql)
+5.crear la base de datos en phpmyadmin o Workbench con el nombre de db_voting.
+5. usar la bd db_voting y ejecutar o importar el archivo bd_voting.sql, tambien se puede ejecutar desde MySql Workbench
+4.abrir el navegador y visitar el sitio http://localhost/prueba-tecnica-desis/
+5.listo.
